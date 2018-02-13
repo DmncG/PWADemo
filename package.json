@@ -1,0 +1,12 @@
+{
+  "name": "your-first-pwapp-master",
+  "version": "1.0.0",
+  "description": "These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/) code lab from Google.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
